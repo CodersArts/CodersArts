@@ -10,6 +10,7 @@ We offers programming assignment help, coding help, online code mentoring servic
 
 
 ### :closed_book:  Latest Blog posts
+[Check it out](https://www.codersarts.com/blog)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
