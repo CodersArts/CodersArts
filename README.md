@@ -22,9 +22,9 @@ our community and enhance your coding skills with Codersarts
 Feel free to explore our GitHub repositories, where you will find a wealth of resources, open-source projects, and code snippets covering a wide range of programming languages and technologies.
 
 #### Visit our websites for more information about our services and to get in touch with us.
-[Codersarts: Programming & Coding Help](https://www.codersarts.com/)
-[Codersarts AI: AI services & Solutions](https://www.ai.codersarts.com/)
-[Codersarts Training: 1:1 Training & Tutoring](https://www.training.codersarts.com/)
+- [Codersarts: Programming & Coding Help](https://www.codersarts.com/)
+- [Codersarts AI: AI services & Solutions](https://www.ai.codersarts.com/)
+- [Codersarts Training: 1:1 Training & Tutoring](https://www.training.codersarts.com/)
 
 
 Connect with us on social media for updates, coding tips, and more!
