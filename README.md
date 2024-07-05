@@ -1,5 +1,6 @@
 # Hi there 👋, Welcome to the Codersarts GitHub profile!
-!(Codersarts Products.png)
+![Codersarts Products](images/Codersarts%20Products.png)
+
 
 
 Codersarts - Empowering developers and learners with expert coding assistance and 
