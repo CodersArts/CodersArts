@@ -40,6 +40,9 @@ Connect with us on social media for updates, coding tips, and more!
 Let's code together and make a difference!
 
 
+![Contact Us](Codersarts _contact_details.png)
+
+
 
 
 
